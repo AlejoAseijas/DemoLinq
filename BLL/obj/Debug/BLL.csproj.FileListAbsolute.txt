@@ -1,0 +1,10 @@
+C:\Users\AlejoAseijas\source\repos\DemoLinqToSQL\BLL\bin\Debug\BLL.dll.config
+C:\Users\AlejoAseijas\source\repos\DemoLinqToSQL\BLL\bin\Debug\BLL.dll
+C:\Users\AlejoAseijas\source\repos\DemoLinqToSQL\BLL\bin\Debug\BLL.pdb
+C:\Users\AlejoAseijas\source\repos\DemoLinqToSQL\BLL\bin\Debug\BE.dll
+C:\Users\AlejoAseijas\source\repos\DemoLinqToSQL\BLL\bin\Debug\BE.pdb
+C:\Users\AlejoAseijas\source\repos\DemoLinqToSQL\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\AlejoAseijas\source\repos\DemoLinqToSQL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\AlejoAseijas\source\repos\DemoLinqToSQL\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\AlejoAseijas\source\repos\DemoLinqToSQL\BLL\obj\Debug\BLL.dll
+C:\Users\AlejoAseijas\source\repos\DemoLinqToSQL\BLL\obj\Debug\BLL.pdb
